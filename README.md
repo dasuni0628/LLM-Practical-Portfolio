@@ -1,6 +1,7 @@
 # LLM Practical Portfolio
 
 **Module:** PUSL 3205 Large Language Models and Generative AI
+
 **Student:** Rubasinghe D D (Student ID: 33680)
 
 This repository is my individual practical portfolio for the module. Each laboratory activity is documented in its own folder with the objective, implementation, results and evidence, observations and learning outcomes. The repository is updated progressively after each lab session.
