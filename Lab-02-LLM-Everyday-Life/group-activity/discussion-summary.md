@@ -6,6 +6,9 @@ Because I did this lab individually, this summary describes my own process of wo
 I gave Claude the problem and asked for 3 product ideas with strengths and weaknesses. It suggested a **Hydration Cap Tracker** (a clip-on cap with a light), a **Campus Refill Streak App** (QR codes at refill points) and a **Timetable-Linked Water Reminder**.
 
 I decided these were too simple and too close to products that already exist. The cap idea also depended on sensors and IoT, which I was not familiar with. I rejected all three and decided to ask for something more original.
+<img src="../screenshots/00a_first_attempt_ideas.png" width="700">
+
+<img src="../screenshots/00b_first_attempt_ideas.png" width="700">
 
 ## Step 2 - A stronger prompt
 I started a new chat and wrote a more detailed prompt. It asked for 3 unique ideas, each with a clear "twist", told Claude not to suggest ordinary reminder apps or standard smart bottles, required at least one idea to use an LLM inside the product, and asked for plain-language explanations of any technical terms. It also asked for a comparison table and a recommendation.
