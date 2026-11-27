@@ -52,22 +52,20 @@ The app does not send a fixed reminder. It builds a short written instruction (a
 ## Visual mock-up
 The mock-up was created with Claude. It shows four phone screens and a diagram of how a message is made.
 
-**1. Setup screen**
+<table>
+  <tr>
+    <td align="center"><b>1. Setup screen</b><br><br><img src="../screenshots/11_mockup_setup_screen.png" width="220"></td>
+    <td align="center"><b>2. Notification screen</b><br><br><img src="../screenshots/12_mockup_notification_screen.png" width="220"></td>
+    <td align="center"><b>3. Ask the Tutor chat</b><br><br><img src="../screenshots/13_mockup_chat_screen.png" width="220"></td>
+    <td align="center"><b>4. Friend alert screen</b><br><br><img src="../screenshots/14_mockup_friend_alert_screen.png" width="220"></td>
+  </tr>
+</table>
 
-![Setup screen](../screenshots/11_mockup_setup_screen.png)
-
-**2. Notification screen**
-
-![Notification screen](../screenshots/12_mockup_notification_screen.png)
-
-**3. Ask the Tutor chat screen** (the Tutor answers "Does tea count?" and refuses to give medical advice)
-
-![Chat screen](../screenshots/13_mockup_chat_screen.png)
-
-**4. Friend alert screen** (the alert a friend receives about the user, with the privacy note)
-
-![Friend alert screen](../screenshots/14_mockup_friend_alert_screen.png)
+- **Screen 1:** the student adds their timetable, picks a personality and chooses a friend for alerts.
+- **Screen 2:** the notification before a 3-hour lab, with one-tap "I drank" and snooze buttons.
+- **Screen 3:** the Tutor answers "Does tea count?" and refuses to give medical advice (guardrail).
+- **Screen 4:** the alert the friend receives about the user, with a privacy note.
 
 **How Thirst Tutor writes each message**
 
-![Flow diagram](../screenshots/15_mockup_flow_diagram.png)
+<img src="../screenshots/15_mockup_flow_diagram.png" width="800">
