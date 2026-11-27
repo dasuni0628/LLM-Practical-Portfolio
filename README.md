@@ -12,7 +12,7 @@ This repository is my individual practical portfolio for the module. Each labora
 |---|---|---|
 | [Lab 01](Lab-01-Machine-Learning/) | Sentiment Analysis Using Traditional Machine Learning | Completed |
 | [Lab 02](Lab-02-LLM-Everyday-Life/) | LLM in Everyday Life | Completed |
-| Lab 03 | Tiny Transformer | Coming soon |
+| [Lab 03](Lab-03-Tiny-Transformer/) | Tiny Transformer | Completed |
 | Lab 04 | Fine-Tuning | Coming soon |
 | Lab 05 | RAG Pipeline | Coming soon |
 | Lab 06 | AI Agents | Coming soon |
@@ -30,8 +30,13 @@ LLM-Practical-Portfolio/
 │   ├── README.md
 │   ├── group-activity/
 │   └── screenshots/
+├── Lab-03-Tiny-Transformer/
+│   ├── README.md
+│   ├── model/
+│   ├── notebook/
+│   └── screenshots/
 └── (further labs will be added as they are completed)
 ```
 
 ## Tools Used
-Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn, Claude (LLM), GitHub
+Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn, PyTorch, Hugging Face Datasets, Claude (LLM), GitHub
