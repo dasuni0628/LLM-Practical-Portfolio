@@ -11,7 +11,7 @@ This repository is my individual practical portfolio for the module. Each labora
 | Lab | Topic | Status |
 |---|---|---|
 | [Lab 01](Lab-01-Machine-Learning/) | Sentiment Analysis Using Traditional Machine Learning | Completed |
-| Lab 02 | LLM in Everyday Life | Coming soon |
+| [Lab 02](Lab-02-LLM-Everyday-Life/) | LLM in Everyday Life | Completed |
 | Lab 03 | Tiny Transformer | Coming soon |
 | Lab 04 | Fine-Tuning | Coming soon |
 | Lab 05 | RAG Pipeline | Coming soon |
