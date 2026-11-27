@@ -26,8 +26,12 @@ LLM-Practical-Portfolio/
 │   ├── README.md
 │   ├── notebook/
 │   └── screenshots/
+├── Lab-02-LLM-Everyday-Life/
+│   ├── README.md
+│   ├── group-activity/
+│   └── screenshots/
 └── (further labs will be added as they are completed)
 ```
 
 ## Tools Used
-Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn
+Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn, Claude (LLM), GitHub
