@@ -1,0 +1,115 @@
+ANSWER CORRECTNESS (11 questions, top-4 chunks)
+  Dense (baseline)     correct 8/11 | refused 2 | avg end-to-end 7.7 s/query
+  Hybrid + Rerank      correct 10/11 | refused 1 | avg end-to-end 9.6 s/query
+
+[Dense (baseline)] Q1: How long is the Lab sheet 1 session and which programming language is used?
+  ANSWER: I could not find this in the documents.
+  RESULT: REFUSED | 7.1s
+
+[Dense (baseline)] Q2: Which Python libraries are used in Lab sheet 1?
+  ANSWER: python -m pip install --upgrade pip 
+pip install langchain langchain-community langchain-ollama langchain-chroma chromadb streamlit pymupdf python-docx sentence-transformers python-dotenv
+  RESULT: WRONG/INCOMPLETE | 8.7s
+
+[Dense (baseline)] Q3: Which metrics should be used to evaluate the model in Lab sheet 1?
+  ANSWER: Accuracy, Precision, Recall, F1
+  RESULT: CORRECT | 4.1s
+
+[Dense (baseline)] Q4: Which group in Lab sheet 2 is about reducing food waste?
+  ANSWER: GROUP 3 - The Food Waster
+  RESULT: CORRECT | 8.5s
+
+[Dense (baseline)] Q5: How long is each group's final presentation in Lab sheet 2?
+  ANSWER: According to the context, the final presentation is 2-3 minutes per group.
+  RESULT: CORRECT | 6.5s
+
+[Dense (baseline)] Q6: What is sentiment analysis also called?
+  ANSWER: Also referred to as opinion mining.
+  RESULT: CORRECT | 6.3s
+
+[Dense (baseline)] Q7: How is lemmatization different from stemming?
+  ANSWER: Lemmatization reduces words to their dictionary form — always produces valid words.
+  RESULT: CORRECT | 7.8s
+
+[Dense (baseline)] Q8: What are the limitations of Bag of Words?
+  ANSWER: The limitations of Bag of Words are:
+
+1. No Semantics: Word meaning is lost, as "bank" (river) and "bank" (financial) are treated identically.
+2. No Word Order: Context is ignored, as "dog bites man" and "man bites dog" are given the same vector.
+  RESULT: CORRECT | 12.4s
+
+[Dense (baseline)] Q9: What are the types of tokenization?
+  ANSWER: There are 4 types of tokenization:
+
+1. Sentence-level
+2. Word-level
+3. Character-level
+4. Sub-word
+  RESULT: CORRECT | 10.0s
+
+[Dense (baseline)] Q10: Which model did Google introduce in 2013 to learn word embeddings from context?
+  ANSWER: Word2Vec.
+  RESULT: CORRECT | 8.6s
+
+[Dense (baseline)] Q11: Who is the lecturer of the Week 1 lesson?
+  ANSWER: I could not find this in the documents.
+  RESULT: REFUSED | 4.3s
+
+[Hybrid + Rerank] Q1: How long is the Lab sheet 1 session and which programming language is used?
+  ANSWER: The Lab sheet 1 session is 1 hour long and the programming language used is Python.
+  RESULT: CORRECT | 10.1s
+
+[Hybrid + Rerank] Q2: Which Python libraries are used in Lab sheet 1?
+  ANSWER: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn.
+  RESULT: CORRECT | 11.8s
+
+[Hybrid + Rerank] Q3: Which metrics should be used to evaluate the model in Lab sheet 1?
+  ANSWER: Accuracy, Precision, Recall, F1.
+  RESULT: CORRECT | 6.2s
+
+[Hybrid + Rerank] Q4: Which group in Lab sheet 2 is about reducing food waste?
+  ANSWER: GROUP 3 - The Food Waster
+  RESULT: CORRECT | 6.2s
+
+[Hybrid + Rerank] Q5: How long is each group's final presentation in Lab sheet 2?
+  ANSWER: I could not find this in the documents.
+  RESULT: REFUSED | 9.2s
+
+[Hybrid + Rerank] Q6: What is sentiment analysis also called?
+  ANSWER: Also referred to as opinion mining.
+  RESULT: CORRECT | 4.9s
+
+[Hybrid + Rerank] Q7: How is lemmatization different from stemming?
+  ANSWER: Lemmatization reduces words to their dictionary form — always produces valid words, whereas stemming reduces words to their root form — may produce non-words.
+  RESULT: CORRECT | 5.6s
+
+[Hybrid + Rerank] Q8: What are the limitations of Bag of Words?
+  ANSWER: 1. No Semantics
+"bank" (river) vs "bank" (financial) — treated 
+identically. Word meaning is lost.
+
+2. No Word Order
+"dog bites man" = "man bites dog" — same 
+vector! Context is ignored.
+
+3. Sparse Vectors
+A 50,000-word vocabulary means mostly zeros 
+— very memory inefficient.
+  RESULT: CORRECT | 21.0s
+
+[Hybrid + Rerank] Q9: What are the types of tokenization?
+  ANSWER: There are 4 types of tokenization:
+
+1. Sentence-level
+2. Word-level
+3. Character-level
+4. Sub-word
+  RESULT: CORRECT | 7.5s
+
+[Hybrid + Rerank] Q10: Which model did Google introduce in 2013 to learn word embeddings from context?
+  ANSWER: Word2Vec.
+  RESULT: CORRECT | 11.8s
+
+[Hybrid + Rerank] Q11: Who is the lecturer of the Week 1 lesson?
+  ANSWER: Thilini Bakmeedeniya
+  RESULT: CORRECT | 11.0s

@@ -1,0 +1,4 @@
+SUMMARY (12 questions, top-5)
+  Dense only (baseline)        Recall@5 = 0.92   MRR = 0.618
+  BM25 only                    Recall@5 = 1.00   MRR = 0.847
+  Hybrid BM25 + Dense (RRF)    Recall@5 = 1.00   MRR = 0.861

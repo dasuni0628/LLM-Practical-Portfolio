@@ -1,0 +1,6 @@
+COMPARISON (12 questions, top-5)
+  System                        Recall@5     MRR   Latency (ms/query)
+  Dense only (baseline)             0.83   0.507                  175
+  BM25 only                         1.00   0.792                    0
+  Hybrid (BM25 + Dense, RRF)        1.00   0.819                  176
+  Hybrid + Rerank                   1.00   0.958                  589
