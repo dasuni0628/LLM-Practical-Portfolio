@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What are your opening hours?",
+    "answer": "TechNest Computers is open Monday to Saturday from 9:00 AM to 7:00 PM and on Sunday from 10:00 AM to 4:00 PM. We are closed on Poya days."
+  },
+  {
+    "question": "Where is the shop located?",
+    "answer": "TechNest Computers is at No. 45, Galle Road, Colombo 03."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can call us on 011 555 0142 during opening hours."
+  },
+  {
+    "question": "Do you have WhatsApp?",
+    "answer": "Yes. Message us on WhatsApp at 077 555 0199 for quick questions and order updates."
+  },
+  {
+    "question": "How long is the warranty on laptops?",
+    "answer": "All new laptops sold by TechNest Computers come with a 2-year warranty."
+  },
+  {
+    "question": "What is the warranty on desktop computers?",
+    "answer": "Desktop computers come with a 3-year warranty."
+  },
+  {
+    "question": "What is the warranty on keyboards and mice?",
+    "answer": "Keyboards, mice and other small accessories have a 6-month warranty."
+  },
+  {
+    "question": "How long is the warranty on SSDs?",
+    "answer": "SSDs come with a 3-year warranty."
+  },
+  {
+    "question": "What does the warranty not cover?",
+    "answer": "The warranty does not cover physical damage, liquid damage or damage caused by unauthorised repairs."
+  },
+  {
+    "question": "What do I need to make a warranty claim?",
+    "answer": "Please bring the item, the original invoice and the serial number. Without the invoice, we cannot process the claim."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return an unopened item in its original packaging within 7 days of purchase for a full refund."
+  },
+  {
+    "question": "What if I receive a faulty item?",
+    "answer": "If an item is faulty when you receive it, we will replace it free of charge within 14 days of purchase."
+  },
+  {
+    "question": "Do you charge for diagnosing a problem?",
+    "answer": "We charge a diagnostic fee of LKR 1,500, which is waived if you go ahead with the repair."
+  },
+  {
+    "question": "How much does it cost to reinstall Windows?",
+    "answer": "A Windows reinstallation costs LKR 3,500, including basic drivers."
+  },
+  {
+    "question": "How much is virus removal?",
+    "answer": "Virus and malware removal costs LKR 2,500."
+  },
+  {
+    "question": "How much does a laptop cleaning service cost?",
+    "answer": "A full internal laptop cleaning with new thermal paste costs LKR 4,000."
+  },
+  {
+    "question": "How long does a simple repair take?",
+    "answer": "Simple repairs usually take 2 to 3 working days."
+  },
+  {
+    "question": "How long do motherboard repairs take?",
+    "answer": "Motherboard repairs can take up to 10 working days."
+  },
+  {
+    "question": "Do you recover data from damaged drives?",
+    "answer": "Yes. Data recovery starts from LKR 8,000, depending on the damage. We only charge if the data is recovered."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, Visa and Mastercard cards, and bank transfers."
+  },
+  {
+    "question": "Do you offer instalment plans?",
+    "answer": "Yes. For purchases above LKR 100,000, we offer 0% interest instalments for up to 6 months on selected bank cards."
+  },
+  {
+    "question": "Do you offer a student discount?",
+    "answer": "Yes. Students with a valid student ID get 5% off laptops and 10% off accessories."
+  },
+  {
+    "question": "Do you deliver?",
+    "answer": "We deliver free within Colombo for orders above LKR 50,000. Islandwide courier delivery takes 2 to 3 working days and costs LKR 650."
+  },
+  {
+    "question": "Can I pick up my order in the shop?",
+    "answer": "Yes. Orders for in-store pickup are usually ready within 2 hours."
+  },
+  {
+    "question": "Can I cancel an order?",
+    "answer": "You can cancel an order free of charge within 24 hours, as long as it has not been dispatched."
+  },
+  {
+    "question": "Which laptop brands do you sell?",
+    "answer": "We sell Dell, HP, Lenovo and ASUS laptops."
+  },
+  {
+    "question": "How much do your student laptops cost?",
+    "answer": "Our student laptop range starts at LKR 165,000."
+  },
+  {
+    "question": "Do you sell refurbished laptops?",
+    "answer": "Yes. Our refurbished laptops are tested by our technicians and come with a 1-year warranty."
+  },
+  {
+    "question": "Can I trade in my old laptop?",
+    "answer": "Yes. You can trade in a working old laptop for credit of up to 20% of the price of a new one."
+  },
+  {
+    "question": "Do you build custom PCs?",
+    "answer": "Yes. We build custom PCs, and assembly is free if you buy all the parts from us."
+  },
+  {
+    "question": "Do you have a loyalty programme?",
+    "answer": "Yes, it is called NestPoints. You earn 1 point for every LKR 100 spent, and 100 points give you LKR 500 off."
+  },
+  {
+    "question": "Do you sell gift vouchers?",
+    "answer": "Yes. Gift vouchers are available in LKR 5,000, LKR 10,000 and LKR 25,000 amounts and are valid for 12 months."
+  },
+  {
+    "question": "Do you upgrade RAM?",
+    "answer": "Yes. RAM upgrades have no labour charge if you buy the RAM from us."
+  },
+  {
+    "question": "How can I check the status of my repair?",
+    "answer": "Send your repair ticket number to our WhatsApp number 077 555 0199 and we will tell you the status."
+  },
+  {
+    "question": "Will you back up my data before a repair?",
+    "answer": "Yes, on request. Data backup costs LKR 1,000 per 100 GB. We are not responsible for lost data if you do not ask for a backup."
+  },
+  {
+    "question": "What is the warranty on laptop batteries?",
+    "answer": "Laptop batteries have a 1-year warranty."
+  },
+  {
+    "question": "Do you repair laptop screens?",
+    "answer": "Yes. The price of a screen replacement depends on the model, and we will give you a quote after checking your laptop."
+  },
+  {
+    "question": "Are you open on public holidays?",
+    "answer": "We are closed on Poya days. On other public holidays we are open from 10:00 AM to 4:00 PM."
+  },
+  {
+    "question": "What is TechNest Computers?",
+    "answer": "TechNest Computers is a computer shop in Colombo that sells laptops, desktops and accessories, and offers repair and upgrade services."
+  },
+  {
+    "question": "Do you sell monitors?",
+    "answer": "Yes. Monitors from 19 to 32 inches come with a 2-year warranty."
+  }
+]
