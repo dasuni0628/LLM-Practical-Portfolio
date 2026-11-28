@@ -14,7 +14,7 @@ This repository is my individual practical portfolio for the module. Each labora
 | [Lab 02](Lab-02-LLM-Everyday-Life/) | LLM in Everyday Life | Completed |
 | [Lab 03](Lab-03-Tiny-Transformer/) | Tiny Transformer | Completed |
 | [Lab 04](Lab-04-Fine-Tuning/) | Fine-Tuning | Completed |
-| Lab 05 | RAG Pipeline | Coming soon |
+| [Lab 05](Lab-05-RAG/) | RAG Architecture | Completed |
 | Lab 06 | AI Agents | Coming soon |
 
 ## Repository Structure
@@ -42,8 +42,14 @@ LLM-Practical-Portfolio/
 │   ├── notebook/
 │   ├── results/
 │   └── screenshots/
+├── Lab-05-RAG/
+│   ├── README.md
+│   ├── code/
+│   ├── results/
+│   ├── screenshots/
+│   └── group-activity/
 └── (further labs will be added as they are completed)
 ```
 
 ## Tools Used
-Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn, PyTorch, Hugging Face Datasets, Claude (LLM), GitHub,Hugging Face Transformers, PEFT, TRL
+Python, Google Colab, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn, PyTorch, Hugging Face Datasets, Claude (LLM), GitHub,Hugging Face Transformers, PEFT, TRL,LangChain, ChromaDB, Ollama, Streamlit
